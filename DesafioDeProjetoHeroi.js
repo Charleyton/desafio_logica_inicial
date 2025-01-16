@@ -1,4 +1,4 @@
-// Escrevendo as classes de um jogo
+// Escrevendo a classe de um jogo
 class heroi {constructor (nome, idade, tipo){
     this.nome = nome
     this.idade = idade
@@ -25,6 +25,6 @@ class heroi {constructor (nome, idade, tipo){
 }
 const meuheroi = new heroi("Conan", 30, "guerreiro");
 meuheroi.atacar();
-   
+
 
     
